@@ -4,7 +4,7 @@ Course project for Getting & Cleaning Data course on Coursera
 
 Using 'run_analysis.R' to created a tidy data set of the average of select features for each subject and activity from the Human Activity Recognition Using Smartphones Dataset.
 
-This README.md refers to: run_analysis.R saved June 21, 2014, 10:10 PM
+Instructions
 ================
 To begin, download and unzip the source file into your working directory from: 
 
